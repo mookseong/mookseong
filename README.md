@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=flat-square&logo=rockylinux&logoColor=white) ![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)  ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=flat-square&logo=centos&logoColor=F0F0F0) ![Opnsense](https://img.shields.io/badge/opnsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)  
 
 ### Status🧑‍💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mookseong&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mookseong&show_icons=true&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mookseong&langs_count=10&layout=compact)](https://github.com/mookseong/mookseong)
 
 
