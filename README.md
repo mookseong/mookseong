@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Welcome👋
 <p>
   <a href="https://mookseong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://mookseong.notion.site/9a1a2e7072444d92a40ffaf350f7d78d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<!--   <a href="https://mookseong.notion.site/9a1a2e7072444d92a40ffaf350f7d78d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
   <a href="mailto:kmkook12312@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kmkook12312@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
