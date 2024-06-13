@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 또한 무언가를 분석하고 개선하고 만드는 것을 좋아합니다.<br/>
 </p>
 
-### Skills🛠️
-
 #### Platforms & Languages
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
