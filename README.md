@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  👋&nbsp;안녕하세요 임성묵입니다, Android Software Engineer 향해 걸어가는 개발자입니다.🚀<br/>App개발을 주로 하지만 가끔식 Spring boot으로 BackEnd 개발도 합니다😎<br/><br/>
+  👋&nbsp;안녕하세요 임성묵입니다, Software Engineer 향해 걸어가는 개발자입니다.🚀<br/><br/>
 가끔식 한강에서 걷거나 노래듣는 것을 좋아합니다🎶<br/>
 또한 무언가를 분석하고 개선하고 만드는 것을 좋아합니다.<br/>
 </p>
